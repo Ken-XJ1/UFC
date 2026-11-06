@@ -1,0 +1,312 @@
+feature,importance
+numeric__B_odds,0.06143352616502822
+numeric__B_ev,0.055849127274620644
+numeric__R_odds,0.055803534178468145
+numeric__R_ev,0.05488899596324793
+numeric__b_dec_odds,0.030182358690289245
+numeric__r_dec_odds,0.02531501591288393
+numeric__b_ko_odds,0.024270366251540543
+numeric__r_ko_odds,0.02263896663852169
+numeric__r_sub_odds,0.022224049365268627
+numeric__sig_str_dif,0.02200197615868383
+numeric__b_sub_odds,0.021615660326932525
+numeric__avg_td_dif,0.020936987561906237
+numeric__R_avg_SIG_STR_landed,0.02026903886148854
+numeric__B_avg_SIG_STR_landed,0.018991723630116187
+numeric__R_avg_SIG_STR_pct,0.018532747194075255
+numeric__B_avg_SIG_STR_pct,0.018383999361862434
+numeric__R_avg_TD_landed,0.018175453398735737
+numeric__R_avg_TD_pct,0.017882217930076053
+numeric__B_age,0.01669514102416966
+numeric__age_dif,0.01648078939395508
+numeric__R_age,0.0158981672457492
+numeric__avg_sub_att_dif,0.015503649736452298
+numeric__B_avg_TD_landed,0.015115770652951551
+numeric__total_round_dif,0.014875186342985307
+numeric__R_total_rounds_fought,0.014496398489205189
+numeric__B_avg_TD_pct,0.014098710161517699
+numeric__R_avg_SUB_ATT,0.013703834263310606
+numeric__reach_dif,0.013054496371219117
+numeric__B_total_rounds_fought,0.012529159926877644
+numeric__B_Reach_cms,0.012458109077406224
+numeric__R_Reach_cms,0.012363641847816577
+numeric__B_avg_SUB_ATT,0.011681834038149454
+numeric__B_Height_cms,0.011086855724524752
+numeric__R_Height_cms,0.010863068820865164
+numeric__height_dif,0.010712274132547158
+numeric__loss_dif,0.010567492452148294
+numeric__win_dif,0.009870178569905963
+numeric__R_Weight_lbs,0.009619520274956824
+numeric__R_wins,0.009162934992181258
+numeric__R_losses,0.008961369726419678
+numeric__B_Weight_lbs,0.008821912486432711
+numeric__B_wins,0.008398466875863684
+numeric__longest_win_streak_dif,0.007981552138501045
+numeric__ko_dif,0.007008820822486132
+numeric__R_longest_win_streak,0.006834530898661028
+numeric__win_streak_dif,0.006822363806967534
+numeric__B_longest_win_streak,0.006766260393476158
+numeric__B_losses,0.006735369130369942
+numeric__R_win_by_KO/TKO,0.006295362515102969
+numeric__R_win_by_Decision_Unanimous,0.006241185283973101
+numeric__R_current_win_streak,0.005769539513322851
+numeric__sub_dif,0.005705916218219693
+numeric__B_current_win_streak,0.0057047423548438345
+numeric__B_win_by_KO/TKO,0.005257344896487721
+numeric__B_win_by_Decision_Unanimous,0.0051005134247657236
+numeric__R_win_by_Submission,0.004921041682417463
+numeric__lose_streak_dif,0.004718905364451036
+numeric__R_current_lose_streak,0.004378226093102443
+numeric__R_match_weightclass_rank,0.004274914871547312
+numeric__R_win_by_Decision_Split,0.00401947146259994
+numeric__B_current_lose_streak,0.003960100516089293
+categorical__country_ USA,0.0035621390644292638
+numeric__B_win_by_Submission,0.003441583162201888
+numeric__total_title_bout_dif,0.003211231819349118
+numeric__R_total_title_bouts,0.002759338260281913
+"categorical__location_Las Vegas, Nevada, USA",0.002755364048901762
+numeric__B_match_weightclass_rank,0.0027129151828328532
+categorical__B_Stance_Orthodox,0.0024599391446399493
+categorical__R_Stance_Orthodox,0.0024518551062332086
+numeric__B_win_by_Decision_Split,0.0022047367099069224
+categorical__R_Stance_Southpaw,0.0021892751129863053
+categorical__B_Stance_Southpaw,0.0020615576028095695
+categorical__weight_class_Lightweight,0.0018951546293859464
+categorical__country_USA,0.001629628720873632
+numeric__B_total_title_bouts,0.0016269783463746929
+categorical__weight_class_Welterweight,0.0016164686958942006
+categorical__better_rank_neither,0.001547647685653671
+categorical__better_rank_Red,0.0015432355114403488
+categorical__weight_class_Featherweight,0.0014514625087063374
+categorical__weight_class_Middleweight,0.0013416342567111547
+categorical__country_ Brazil,0.0012036576851630091
+numeric__empty_arena,0.0011552273154868146
+categorical__weight_class_Bantamweight,0.0009517157875094136
+numeric__no_of_rounds,0.0008878115046184179
+categorical__weight_class_Light Heavyweight,0.0008680292947116968
+categorical__country_ Canada,0.0008250576660786253
+categorical__gender_FEMALE,0.0008170569133278515
+categorical__gender_MALE,0.0007898318510867089
+categorical__weight_class_Heavyweight,0.000704781549095277
+categorical__B_Stance_Switch,0.0005733649470571027
+categorical__weight_class_Flyweight,0.000440090747120485
+categorical__title_bout_False,0.0004384601468844413
+numeric__R_Lightweight_rank,0.00042764903568188187
+categorical__country_ Australia,0.00041288555429670645
+categorical__weight_class_Women's Strawweight,0.0003813937190836803
+categorical__title_bout_True,0.00036320085314645766
+numeric__R_Flyweight_rank,0.0003512324504772694
+categorical__weight_class_Women's Flyweight,0.0003462204919209803
+categorical__R_Stance_Switch,0.000346140572961144
+numeric__R_Middleweight_rank,0.0003267781097575407
+numeric__R_win_by_TKO_Doctor_Stoppage,0.0003257316966742223
+numeric__R_Pound-for-Pound_rank,0.00031894208594842276
+numeric__R_Heavyweight_rank,0.00030719710621030725
+numeric__R_Women's Strawweight_rank,0.00028871496660335614
+numeric__R_Light Heavyweight_rank,0.00028573200606178857
+numeric__R_win_by_Decision_Majority,0.0002768234237342019
+"categorical__location_London, England, United Kingdom",0.0002722313192825545
+numeric__R_Women's Bantamweight_rank,0.000256561206123037
+categorical__country_United Arab Emirates,0.00023019906683913288
+numeric__B_draw,0.00022926229087455604
+numeric__B_Light Heavyweight_rank,0.0002245719733243501
+"categorical__location_Abu Dhabi, Abu Dhabi, United Arab Emirates",0.00021751051812119042
+categorical__country_ United Kingdom,0.00021723775210577518
+numeric__R_Welterweight_rank,0.00021417420572428236
+categorical__weight_class_Women's Bantamweight,0.00020698528556573176
+numeric__B_Featherweight_rank,0.0002050612491194189
+numeric__R_Featherweight_rank,0.0002031345346612539
+numeric__B_Lightweight_rank,0.00019308859944920623
+numeric__R_Bantamweight_rank,0.00017756987349639732
+numeric__R_draw,0.00017405825107979418
+numeric__B_Welterweight_rank,0.00017037640921725827
+"categorical__location_New York City, New York, USA",0.0001702808789849365
+numeric__B_Women's Strawweight_rank,0.0001607846665845022
+"categorical__location_Porto Alegre, Rio Grande do Sul, Brazil",0.00015647801149073159
+numeric__B_win_by_TKO_Doctor_Stoppage,0.00015450622010327016
+numeric__B_Flyweight_rank,0.00014260664296046597
+"categorical__location_Stockholm, Sweden",0.00013877439971788846
+numeric__B_Heavyweight_rank,0.00013425673963049237
+"categorical__location_Toronto, Ontario, Canada",0.00013356001527523866
+numeric__B_Middleweight_rank,0.00013206116119225873
+numeric__B_Women's Bantamweight_rank,0.0001306044124504888
+"categorical__location_Vancouver, British Columbia, Canada",0.000125585846319942
+numeric__R_Women's Flyweight_rank,0.00012152343948970577
+"categorical__location_Rio de Janeiro, Brazil",0.00011037538724394245
+"categorical__location_Newark, New Jersey, USA",0.000108715238926082
+categorical__country_ Germany,0.0001081366488471518
+numeric__B_win_by_Decision_Majority,0.00010700561124331228
+"categorical__location_Melbourne, Victoria, Australia",0.00010665954816554399
+categorical__country_ Sweden,0.00010602380720396908
+"categorical__location_Mexico City, Distrito Federal, Mexico",0.00010038564267726946
+"categorical__location_Kallang, Singapore",9.591920660672277e-05
+"categorical__location_Houston, Texas, USA",8.882960138492332e-05
+"categorical__location_Sydney, New South Wales, Australia",8.736981775443675e-05
+categorical__better_rank_Blue,8.476395011295352e-05
+numeric__B_Bantamweight_rank,8.428326494231076e-05
+"categorical__location_Jacksonville, Florida, USA",8.242478843313243e-05
+categorical__country_Brazil,8.142638935464678e-05
+categorical__country_ Mexico,7.451467600070807e-05
+"categorical__location_Chicago, Illinois, USA",7.344767660691706e-05
+"categorical__location_Sao Paulo, Sao Paulo, Brazil",6.635154832156831e-05
+categorical__country_United Kingdom,6.531157622644012e-05
+"categorical__location_Belo Horizonte, Minas Gerais, Brazil",6.445954135118522e-05
+"categorical__location_Milwaukee, Wisconsin, USA",6.277856293716756e-05
+"categorical__location_Anaheim, California, USA",6.250841326811141e-05
+"categorical__location_Atlanta, Georgia, USA",6.155763879022229e-05
+"categorical__location_Dallas, Texas, USA",6.079298414603398e-05
+"categorical__location_San Jose, California, USA",6.054127510407205e-05
+"categorical__location_Phoenix, Arizona, USA",5.923967395541216e-05
+"categorical__location_Austin, Texas, USA",5.875684576128849e-05
+"categorical__location_Orlando, Florida, USA",5.5103716552817763e-05
+"categorical__location_Montreal, Quebec, Canada",4.866755179813909e-05
+categorical__country_ Japan,4.806381686603437e-05
+"categorical__location_Boston, Massachusetts, USA",4.081305031874437e-05
+"categorical__location_Saitama, Japan",3.9511564162214884e-05
+"categorical__location_Jaragua do Sul, Santa Catarina, Brazil",3.949251356202438e-05
+numeric__B_Women's Flyweight_rank,3.747198677452645e-05
+"categorical__location_San Diego, California, USA",3.676576212814121e-05
+categorical__country_ Poland,3.628983280016256e-05
+"categorical__location_Winnipeg, Manitoba, Canada",3.3803397761271926e-05
+categorical__country_ China,2.9714943202437635e-05
+"categorical__location_San Antonio, Texas, USA",2.906936697639905e-05
+"categorical__location_Sacramento, California, USA",2.8143643321889386e-05
+categorical__weight_class_Catch Weight,2.8099312148566692e-05
+"categorical__location_Seattle, Washington, USA",2.7475389982990342e-05
+"categorical__location_Adelaide, South Australia, Australia",2.5307768041628713e-05
+"categorical__location_Hamburg, Hamburg, Germany",2.5277214179187774e-05
+numeric__B_Pound-for-Pound_rank,2.5251282481157487e-05
+"categorical__location_Atlantic City, New Jersey, USA",2.5195725853615666e-05
+"categorical__location_Rochester, New York, USA",2.354970812014981e-05
+categorical__country_ Singapore,2.297620139100452e-05
+"categorical__location_Auburn Hills, Michigan, USA",2.141960012382108e-05
+"categorical__location_Manchester, England, United Kingdom",2.018301776873714e-05
+"categorical__location_Goiania, Goias, Brazil",1.96797078959145e-05
+"categorical__location_Denver, Colorado, USA",1.8479091028720013e-05
+"categorical__location_Nashville, Tennessee, USA",1.832902135939013e-05
+categorical__country_ South Korea,1.8117856792488817e-05
+"categorical__location_Auckland, New Zealand",1.7294017864418316e-05
+"categorical__location_Sunrise, Florida, USA",1.6929565980420825e-05
+"categorical__location_Rio de Janeiro, Rio de Janeiro, Brazil",1.6589134041405857e-05
+"categorical__location_Saitama, Saitama, Japan",1.620922790317213e-05
+"categorical__location_Los Angeles, California, USA",1.6168897782579234e-05
+"categorical__location_Brisbane, Queensland, Australia",1.5500991238519523e-05
+"categorical__location_Abu Dhabi, United Arab Emirates",1.542948795023895e-05
+"categorical__location_Fortaleza, Ceara, Brazil",1.5266997934010254e-05
+"categorical__location_Barueri, Sao Paulo, Brazil",1.4785997560887995e-05
+"categorical__location_Shenzhen, Guangdong, China",1.4743578784147497e-05
+"categorical__location_Macau, China",1.4495395216712622e-05
+"categorical__location_Singapore, Singapore",1.4189714457504239e-05
+"categorical__location_Pittsburgh, Pennsylvania, USA",1.2849234038984619e-05
+categorical__country_ New Zealand,1.2002513340920319e-05
+"categorical__location_Moscow, Moscow, Russia",1.0639558616327641e-05
+"categorical__location_Utica, New York, USA",1.0552179309696756e-05
+"categorical__location_Busan, South Korea",1.0059152049271961e-05
+categorical__country_ United Arab Emirates,9.76633178413248e-06
+categorical__country_ Ireland,9.097499621119082e-06
+"categorical__location_Fairfax, Virginia, USA",7.97372660955347e-06
+"categorical__location_Fort Campbell, Kentucky, USA",7.88905182479531e-06
+"categorical__location_Glasgow, Scotland, United Kingdom",7.244849745245694e-06
+"categorical__location_Calgary, Alberta, Canada",7.041225092645245e-06
+"categorical__location_Miami, Florida, USA",6.906130866314253e-06
+categorical__country_ Croatia,6.72655480699994e-06
+"categorical__location_Salt Lake City, Utah, USA",6.554826544442315e-06
+"categorical__location_Cincinnati, Ohio, USA",5.709909302408401e-06
+"categorical__location_Columbus, Ohio, USA",5.546341015899461e-06
+"categorical__location_Washington, DC, USA",5.437420014802306e-06
+"categorical__location_Brasilia, Distrito Federal, Brazil",5.416745712684959e-06
+"categorical__location_Seoul, South Korea",5.2502129344298115e-06
+categorical__country_ Russia,5.113415930461602e-06
+"categorical__location_Norfolk, Virginia, USA",5.103115592011785e-06
+categorical__weight_class_Women's Featherweight,4.5019210373656735e-06
+categorical__country_ Philippines,4.459632402401452e-06
+"categorical__location_Indianapolis, Indiana, USA",4.348222737566091e-06
+"categorical__location_Philadelphia, Pennsylvania, USA",3.8560643082842184e-06
+categorical__country_ Netherlands,2.4151757798373773e-06
+"categorical__location_Broomfield, Colorado, USA",1.6157061255748844e-06
+"categorical__location_Monterrey, Nuevo Leon, Mexico",1.5946932269166418e-06
+"categorical__location_Rotterdam, Zuid-Holland, Netherlands",1.264701127429914e-06
+"categorical__location_Perth, Western Australia, Australia",8.426247932471356e-07
+"categorical__location_Berlin, Germany",0.0
+"categorical__location_Brooklyn, New York, USA",0.0
+"categorical__location_Buenos Aires, Buenos Aires, Argentina",0.0
+categorical__B_Stance_Open Stance,0.0
+"categorical__location_Edmonton, Alberta, Canada",0.0
+"categorical__location_Boise, Idaho, USA",0.0
+"categorical__location_Birmingham, England, United Kingdom",0.0
+categorical__B_Stance_Switch ,0.0
+categorical__R_Stance_Open Stance,0.0
+"categorical__location_Berlin, Berlin, Germany",0.0
+"categorical__location_Buffalo, New York, USA",0.0
+"categorical__location_Cleveland, Ohio, USA",0.0
+"categorical__location_Charlotte, North Carolina, USA",0.0
+"categorical__location_Curitiba, Parana, Brazil",0.0
+"categorical__location_Copenhagen, Denmark",0.0
+"categorical__location_Detroit, Michigan, USA",0.0
+"categorical__location_Dublin, Leinster, Ireland",0.0
+"categorical__location_Duluth, Georgia, USA",0.0
+"categorical__location_East Rutherford, New Jersey, USA",0.0
+"categorical__location_Manila, Philippines",0.0
+"categorical__location_Louisville, Kentucky, USA",0.0
+"categorical__location_Lincoln, Nebraska, USA",0.0
+"categorical__location_Liverpool, England, United Kingdom",0.0
+"categorical__location_Ledyard, Connecticut, USA",0.0
+"categorical__location_Kansas City, Missouri, USA",0.0
+"categorical__location_Killeen, Texas, USA",0.0
+"categorical__location_Krakow, Poland",0.0
+"categorical__location_Gdansk, Poland",0.0
+"categorical__location_Fresno, California, USA",0.0
+"categorical__location_Gold Coast, Queensland, Australia",0.0
+"categorical__location_Glendale, Arizona, USA",0.0
+"categorical__location_Greenville, South Carolina, USA",0.0
+"categorical__location_Halifax, Nova Scotia, Canada",0.0
+"categorical__location_Hidalgo, Texas, USA",0.0
+"categorical__location_Hollywood, Florida, USA",0.0
+"categorical__location_Elmont, New York, USA",0.0
+"categorical__location_Paris, Ile-de-France, France",0.0
+"categorical__location_Moncton, New Brunswick, Canada",0.0
+"categorical__location_New Orleans, Louisiana, USA",0.0
+"categorical__location_Minneapolis, Minnesota, USA",0.0
+"categorical__location_Natal, Rio Grande do Norte, Brazil",0.0
+"categorical__location_Oberhausen, North Rhine-Westphalia, Germany",0.0
+"categorical__location_Nottingham, England, United Kingdom",0.0
+"categorical__location_Omaha, Nebraska, USA",0.0
+"categorical__location_Ottawa, Ontario, Canada",0.0
+"categorical__location_Oklahoma City, Oklahoma, USA",0.0
+"categorical__location_Montevideo, Uruguay",0.0
+"categorical__location_Oakland, California, USA",0.0
+"categorical__location_Portland, Oregon, USA",0.0
+"categorical__location_Prague, Czech Republic",0.0
+"categorical__location_Quebec City, Quebec, Canada",0.0
+"categorical__location_Uberlandia, Minas Gerais, Brazil",0.0
+"categorical__location_Tulsa, Oklahoma, USA",0.0
+"categorical__location_Tampa, Florida, USA",0.0
+"categorical__location_St. Louis, Missouri, USA",0.0
+"categorical__location_Shanghai, Hebei, China",0.0
+"categorical__location_Saskatoon, Saskatchewan, Canada",0.0
+"categorical__location_Sioux Falls, South Dakota, USA",0.0
+"categorical__location_Sao Paulo, Brazil",0.0
+"categorical__location_Saint Petersburg, Saint Petersburg, Russia",0.0
+"categorical__location_Raleigh, North Carolina, USA",0.0
+"categorical__location_Santiago, Chile",0.0
+"categorical__location_Rio Rancho, New Mexico, USA",0.0
+categorical__country_ Czech Republic,0.0
+categorical__country_ Chile,0.0
+"categorical__location_Wichita, Kansas, USA",0.0
+"categorical__location_Uniondale, New York, USA",0.0
+"categorical__location_Belfast, Northern Ireland, United Kingdom",0.0
+"categorical__location_Belem, Para, Brazil",0.0
+"categorical__location_Beijing, China",0.0
+"categorical__location_Bangor, Maine, USA",0.0
+"categorical__location_Baltimore, Maryland, USA",0.0
+"categorical__location_Albany, New York, USA",0.0
+"categorical__location_Albuquerque, New Mexico, USA",0.0
+categorical__country_ Denmark,0.0
+categorical__country_ Argentina,0.0
+"categorical__location_Zagreb, Croatia",0.0
+categorical__country_ Uruguay,0.0
+categorical__country_Australia,0.0
+categorical__country_Singapore,0.0
+categorical__country_France,0.0
+numeric__B_Women's Featherweight_rank,0.0
+numeric__R_Women's Featherweight_rank,0.0

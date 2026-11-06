@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ufc-fight-predictor
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m streamlit run app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true
+    envVars:
+      - key: UFCAL_API_KEY
+        sync: false

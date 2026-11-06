@@ -1,0 +1,162 @@
+feature,importance
+numeric__difference_age,0.056213128565157
+numeric__fighter1_age,0.048838734611996115
+numeric__fighter2_age,0.04254631190789731
+numeric__fighter2_avg_sig_strikes_landed,0.04243461855879303
+numeric__fighter2_reach_cm,0.04103060657538223
+numeric__fighter1_avg_sig_strikes_accuracy,0.03752585583024154
+numeric__fighter1_avg_sig_strikes_landed,0.03726410677826829
+numeric__difference_avg_sig_strikes_landed,0.03066643377941568
+numeric__difference_reach_cm,0.029611696575029465
+numeric__fighter1_avg_takedowns_landed,0.028866513135855067
+numeric__difference_avg_sig_strikes_accuracy,0.02882526412803328
+numeric__difference_avg_takedowns_landed,0.028581731672066756
+numeric__fighter2_avg_sig_strikes_accuracy,0.028387934346147094
+numeric__fighter1_previous_win_rate,0.025945228302869442
+numeric__fighter1_reach_cm,0.025430754816514134
+numeric__fighter1_height_cm,0.02357757353052805
+numeric__difference_previous_win_rate,0.023256218435430187
+numeric__fighter2_height_cm,0.023048976534594333
+numeric__fighter2_avg_takedowns_landed,0.022584382600046166
+numeric__difference_height_cm,0.021450390962930197
+numeric__difference_previous_fights,0.021111673693140504
+numeric__fighter1_avg_knockdowns,0.01955947692179622
+numeric__fighter1_previous_fights,0.01950946190781906
+numeric__difference_avg_knockdowns,0.019480140281026192
+numeric__fighter1_previous_stats_fights,0.01939247544900432
+numeric__difference_previous_losses,0.01899580479066078
+numeric__difference_previous_wins,0.018005188909047103
+numeric__fighter1_previous_losses,0.01800228565022876
+numeric__difference_current_streak,0.017299451827442882
+numeric__fighter2_previous_win_rate,0.017056699327991923
+numeric__fighter1_previous_wins,0.01639630542790045
+numeric__fighter2_previous_stats_fights,0.015567410219329692
+numeric__fighter2_previous_fights,0.015541647081430491
+numeric__fighter1_current_streak,0.015061569637751808
+numeric__fighter2_avg_knockdowns,0.015016891167112184
+numeric__fighter2_previous_wins,0.013472283630726145
+numeric__fighter2_current_streak,0.012230601918445601
+numeric__fighter2_previous_losses,0.01024504287243662
+categorical__fighter1_stance_Orthodox,0.004970015866130513
+categorical__fighter2_stance_Orthodox,0.004797239369067255
+categorical__weightclass_Welterweight Bout,0.00461924993372167
+categorical__fighter2_stance_Southpaw,0.004252224484535332
+categorical__fighter1_stance_Southpaw,0.0042403334212919785
+categorical__weightclass_Lightweight Bout,0.004205322959964916
+categorical__weightclass_Open Weight Bout,0.003718178177130032
+categorical__weightclass_Featherweight Bout,0.003576181738335747
+categorical__weightclass_Middleweight Bout,0.002820891905447389
+categorical__weightclass_Bantamweight Bout,0.0024485658271966955
+categorical__weightclass_Heavyweight Bout,0.0024237929947221936
+categorical__weightclass_Light Heavyweight Bout,0.002314304565825216
+categorical__fighter2_stance_Switch,0.0012714386934050525
+categorical__weightclass_Women's Strawweight Bout,0.0012090102900703397
+categorical__fighter1_stance_Switch,0.0011624151676165133
+categorical__weightclass_Flyweight Bout,0.00115409448860218
+categorical__weightclass_Women's Bantamweight Bout,0.0008185072667018078
+categorical__weightclass_Women's Flyweight Bout,0.0007091868016487125
+categorical__weightclass_UFC Welterweight Title Bout,0.0002956863681721816
+categorical__weightclass_UFC Light Heavyweight Title Bout,0.00020511778729329617
+categorical__weightclass_Catch Weight Bout,0.0001495044392838899
+categorical__weightclass_UFC Heavyweight Title Bout,0.00012245684300296982
+categorical__weightclass_UFC Middleweight Title Bout,0.00011834706289115413
+categorical__weightclass_UFC Lightweight Title Bout,9.525993910021583e-05
+categorical__weightclass_UFC Flyweight Title Bout,5.591965577005939e-05
+categorical__weightclass_UFC Women's Bantamweight Title Bout,4.539624920930903e-05
+categorical__weightclass_UFC Women's Flyweight Title Bout,4.348392649153089e-05
+categorical__weightclass_UFC Featherweight Title Bout,3.8291649081205325e-05
+categorical__weightclass_UFC Bantamweight Title Bout,2.6789768950106958e-05
+categorical__weightclass_UFC Women's Strawweight Title Bout,2.669353036113e-05
+categorical__fighter1_stance_Open Stance,2.219346266063295e-05
+categorical__weightclass_Women's Featherweight Bout,9.416672282479854e-06
+categorical__weightclass_UFC Interim Heavyweight Title Bout,1.8487466900229537e-06
+categorical__weightclass_UFC Interim Bantamweight Title Bout,1.2786142565118103e-06
+categorical__weightclass_UFC Women's Featherweight Title Bout,4.889726037697161e-07
+categorical__fighter2_stance_Open Stance,0.0
+categorical__weightclass_UFC 10 Tournament Title Bout,0.0
+categorical__weightclass_TUF Nations Canada vs. Australia Middleweight Tournament Title Bout,0.0
+categorical__weightclass_TUF Nations Canada vs. Australia Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Road to UFC 1 Flyweight Tournament Title Bout,0.0
+categorical__weightclass_Road To UFC 1 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Road To UFC 1 Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Road To UFC 1 Bantamweight Tournament Title Bout,0.0
+categorical__weightclass_UFC 8 Tournament Title Bout,0.0
+categorical__weightclass_UFC 5 Tournament Title Bout,0.0
+categorical__weightclass_UFC 6 Tournament Title Bout,0.0
+categorical__weightclass_UFC 7 Tournament Title Bout,0.0
+categorical__weightclass_UFC 4 Tournament Title Bout,0.0
+categorical__weightclass_UFC 17 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_UFC 2 Tournament Title Bout,0.0
+categorical__weightclass_UFC 3 Tournament Title Bout,0.0
+categorical__weightclass_UFC 14 Middleweight Tournament Title Bout,0.0
+categorical__fighter1_stance_Sideways,0.0
+categorical__fighter2_stance_Sideways,0.0
+categorical__weightclass_Super Heavyweight Bout,0.0
+categorical__weightclass_UFC 15 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_UFC 13 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_UFC 14 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_UFC 13 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_UFC Superfight Championship Bout,0.0
+categorical__weightclass_UFC Interim Welterweight Title Bout,0.0
+categorical__weightclass_UFC Interim Lightweight Title Bout,0.0
+categorical__weightclass_UFC Interim Featherweight Title Bout,0.0
+categorical__weightclass_UFC Interim Flyweight Title Bout,0.0
+categorical__weightclass_UFC Interim Light Heavyweight Title Bout,0.0
+categorical__weightclass_UFC Interim Middleweight Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 1 Light Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 14 Bantamweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 14 Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 15 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 1 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 10 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 11 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 12 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 13 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 19 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 2 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 2 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 21 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 22 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 23 Light Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 23 Women's Strawweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 25 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 27 Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 27 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 28 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 16 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 17 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 18 Bantamweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 18 Women's Bantamweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 19 Light Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 4 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 4 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 3 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 3 Light Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 28 Women's Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 5 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 7 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 6 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Australia vs. UK Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 1 Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 1 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 8 Light Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 8 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 9 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter 9 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Australia vs. UK Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 4 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 4 Bantamweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 3 Middleweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 3 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Brazil 2 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter China Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Latin America 2 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter China Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Japan 2 Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Latin America Featherweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Latin America Bantamweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Latin America 3 Lightweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Fighter Latin America 2 Welterweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Ultimate '96 Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Japan Heavyweight Tournament Title Bout,0.0
+categorical__weightclass_Ultimate Ultimate '95 Tournament Title Bout,0.0

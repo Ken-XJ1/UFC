@@ -1,0 +1,10 @@
+# Entorno y secretos
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Salidas regenerables
+.ipynb_checkpoints/
+*.log

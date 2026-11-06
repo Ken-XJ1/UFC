@@ -1,0 +1,3 @@
+event_date,event,bout,fighter1,fighter2,winner_side,predicted_side,probability_fighter1,probability_fighter2,predicted_winner,actual_winner
+2023-06-10,UFC 289: Nunes vs. Aldana,Amanda Nunes vs. Irene Aldana,Amanda Nunes,Irene Aldana,1,1,0.6470920676464053,0.3529079323535945,Amanda Nunes,Amanda Nunes
+2023-04-08,UFC 287: Pereira vs. Adesanya 2,Alex Pereira vs. Israel Adesanya,Alex Pereira,Israel Adesanya,0,1,0.5939863610543501,0.4060136389456498,Alex Pereira,Israel Adesanya

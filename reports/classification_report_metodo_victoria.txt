@@ -1,0 +1,12 @@
+                         precision    recall  f1-score   support
+
+Esquina azul — Decisión       0.38      0.38      0.38       344
+  Esquina azul — KO/TKO       0.31      0.35      0.33       204
+Esquina azul — Sumisión       0.25      0.35      0.29       106
+Esquina roja — Decisión       0.45      0.38      0.41       422
+  Esquina roja — KO/TKO       0.38      0.35      0.36       265
+Esquina roja — Sumisión       0.33      0.38      0.35       145
+
+               accuracy                           0.37      1486
+              macro avg       0.35      0.36      0.35      1486
+           weighted avg       0.38      0.37      0.37      1486

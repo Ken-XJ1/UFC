@@ -1,0 +1,31 @@
+Regresión logística
+                  precision    recall  f1-score   support
+
+Segundo peleador       0.60      0.36      0.45       848
+ Primer peleador       0.62      0.81      0.70      1072
+
+        accuracy                           0.61      1920
+       macro avg       0.61      0.59      0.58      1920
+    weighted avg       0.61      0.61      0.59      1920
+
+
+Random Forest
+                  precision    recall  f1-score   support
+
+Segundo peleador       0.59      0.40      0.48       848
+ Primer peleador       0.62      0.78      0.69      1072
+
+        accuracy                           0.61      1920
+       macro avg       0.61      0.59      0.59      1920
+    weighted avg       0.61      0.61      0.60      1920
+
+
+XGBoost
+                  precision    recall  f1-score   support
+
+Segundo peleador       0.59      0.34      0.43       848
+ Primer peleador       0.61      0.82      0.70      1072
+
+        accuracy                           0.61      1920
+       macro avg       0.60      0.58      0.56      1920
+    weighted avg       0.60      0.61      0.58      1920
