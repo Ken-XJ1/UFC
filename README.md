@@ -14,9 +14,10 @@ Proyecto en desarrollo para analizar peleas históricas y estimar resultados UFC
 
 ## Preparar los datos y entrenar
 
-Ejecuta estos comandos desde la carpeta `ufc-predictor`:
+Instala primero las dependencias de entrenamiento y ejecuta estos comandos desde la carpeta `ufc-predictor`:
 
 ```powershell
+python -m pip install -r requirements-train.txt
 python src\train_updated_model.py --refresh
 python src\train_odds_model.py --refresh
 ```
